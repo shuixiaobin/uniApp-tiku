@@ -1,0 +1,175 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/index",
+      "style": {
+        "navigationBarTitleText": "华图智题库",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/examination/index",
+      "style": {
+        "navigationBarTitleText": "精准估分",
+        "disableScroll": true
+      }
+    },
+    {
+      "path": "pages/examination/mock",
+      "style": {
+        "navigationBarTitleText": "模考大赛",
+        "disableScroll": true
+      }
+    },
+    {
+      "path": "pages/home/jobInfo",
+      "style": {
+        "navigationBarTitleText": "华图智题库"
+      }
+    },
+    {
+      "path": "pages/downloadPaper/index",
+      "style": {
+        "navigationBarTitleText": "下载试卷",
+        "disableScroll": true
+      }
+    },
+    {
+      "path": "pages/downloadPaper/down",
+      "style": {
+        "navigationBarTitleText": "下载华图在线APP",
+        "disableScroll": true
+      }
+    },
+    {
+      "path": "pages/grade/index",
+      "style": {
+        "navigationBarTitleText": "成绩统计",
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#FF85B2"
+      }
+    },
+    {
+      "path": "pages/grade/mock",
+      "style": {
+        "navigationBarTitleText": "模考大赛报告",
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#FF85B2"
+      }
+    },
+    {
+      "path": "pages/mine/login",
+      "style": {
+        "navigationBarTitleText": "登录注册"
+      }
+    },
+    {
+      "path": "pages/mine/forgetPassword",
+      "style": {
+        "navigationBarTitleText": "找回密码"
+      }
+    },
+    {
+      "path": "pages/mine/setPassword",
+      "style": {
+        "navigationBarTitleText": "设置密码"
+      }
+    },
+    {
+      "path": "pages/mine/userInfo",
+      "style": {
+        "navigationBarTitleText": "华图智题库"
+      }
+    },
+    {
+      "path": "pages/home/selectTest",
+      "style": {
+        "navigationBarTitleText": "已选题库"
+      }
+    },
+    {
+      "path": "pages/home/subject",
+      "style": {
+        "navigationBarTitleText": "选择科目"
+      }
+    },
+    {
+      "path": "pages/course/list",
+      "style": {
+        "navigationBarTitleText": "课程解析"
+      }
+    },
+    {
+      "path": "pages/course/customer",
+      "style": {
+        "navigationBarTitleText": "客服"
+      }
+    },
+    {
+      "path": "pages/grade/analysis",
+      "style": {
+        "navigationBarTitleText": "解析",
+        "disableScroll": true
+      }
+    },
+    {
+      "path": "pages/grade/gift",
+      "style": {
+        "navigationBarTitleText": "礼包",
+        "disableScroll": true
+      }
+    },
+    {
+      "path": "pages/grade/share",
+      "style": {
+        "navigationBarTitleText": "成绩统计"
+      }
+    },
+    {
+      "path": "pages/grade/mockShare",
+      "style": {
+        "navigationBarTitleText": "成绩统计"
+      }
+    },
+    {
+      "path": "pages/home/estimateHistory",
+      "style": {
+        "navigationBarTitleText": "我的估分历史",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/home/mockHistory",
+      "style": {
+        "navigationBarTitleText": "我的模考历史",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/mine/agreement",
+      "style": {
+        "navigationBarTitleText": "华图在线用户服务协议"
+      }
+    },
+    {
+      "path": "pages/examGuide/index",
+      "style": {
+        "navigationBarTitleText": "精准估分"
+      }
+    },
+    {
+      "path": "pages/guide/index",
+      "style": {
+        "navigationBarTitleText": "华图在线",
+        "navigationStyle": "default"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "华图智题库",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#fff",
+    "navigationStyle": "custom"
+  }
+}
